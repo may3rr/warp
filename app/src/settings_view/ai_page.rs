@@ -6077,7 +6077,7 @@ impl ApiKeysWidget {
             mimo_api_key_editor,
             mimo_key,
             set_mimo_key,
-            "tp-..."
+            "tp-xxxxxxxxxxxxxxxx"
         );
 
         Self {
